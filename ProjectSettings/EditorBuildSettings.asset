@@ -65,7 +65,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/LightEstimation/ARKitHDRLightEstimation.unity
     guid: f7322e09f4047458fbc45af303830f01
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/LightEstimation/LightEstimation.unity
     guid: 2f0cbc82480584c258f99f0d9e4ba302
   - enabled: 0
